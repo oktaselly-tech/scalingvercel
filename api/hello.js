@@ -3,3 +3,4 @@ export default function handler(req, res) {
     message: "Hello from Vercel instance!",
     time: new Date().toISOString(),
   });
+}
